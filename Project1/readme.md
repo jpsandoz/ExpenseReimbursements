@@ -26,9 +26,9 @@ To-do list:
 ## Getting Started
 
 to pull the code into local storage   
-> git clone https://gitlab.com/revature_batches/1120_java02_august.git 
+> git clone https://github.com/jpsandoz/ExpenseReimbursements.git
 
-Set up the following tomcat server configurations:
+Set up the following tomcat server configurations(IntelliJ Ultimate):
 > URL: http://localhost:8080/Project1/login
 > HTTP port: 8080
 > Deploy at the server startup - Project1:war
